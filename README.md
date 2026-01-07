@@ -21,7 +21,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-leoc%C3%A1dio-64475a164/)
 [![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdleocadio.dev@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdleocadio&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdleocadio&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
-</p>
