@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Rodrigo Leocádio
+## 🧑🏻‍💻 Rodrigo Leocádio
 
 - Full-stack developer  
 - Le Wagon alumni (Batch #2166 – AI Software)
