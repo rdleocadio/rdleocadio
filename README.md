@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🧑🏻‍💻 Rodrigo Leocádio
 
-<!--
-**rdleocadio/rdleocadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Full-stack developer  
+- Le Wagon alumni (Batch #2166 – AI Software)
+- Studying Analysis and Systems Development
+- MBA – Marketing, Branding & Digital
+- Business School Graduate
+- Passionate about learning, creating and solving problems  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-2F5E8D?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📩 Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-leoc%C3%A1dio-64475a164/)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdleocadio.dev@gmail.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdleocadio&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdleocadio&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+</p>
